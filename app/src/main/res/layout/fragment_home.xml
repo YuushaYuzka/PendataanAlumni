@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tentang Aplikasi"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="104dp"
+        android:layout_marginTop="8dp"
+        android:text="Aplikasi pendataan alumni adalah sebuah platform digital yang dirancang untuk mengumpulkan, menyimpan, dan mengelola informasi mengenai para alumni suatu lembaga pendidikan atau organisasi. Aplikasi ini bertujuan untuk memudahkan institusi dalam melacak jejak karier, pencapaian, dan informasi kontak dari para alumni mereka." />
+</LinearLayout>
